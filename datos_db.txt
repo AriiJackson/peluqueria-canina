@@ -1,0 +1,6 @@
+DATOS BASE DE DATOS:
+Usuario: tpo2integrador
+Contraseña: tpo2
+Host: localhost
+Port: 3306
+BD: peluqueriaCanina
